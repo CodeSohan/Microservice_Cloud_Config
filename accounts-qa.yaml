@@ -1,0 +1,8 @@
+
+
+build:
+  info: 3.0
+
+accounts:
+  message: "This Accounts Microservice QA"
+  version: 3.0
