@@ -1,7 +1,7 @@
 
 
 build:
-  info: {cipher}37ea8471c191696efa9ac07fb5d80ba41e6496fef74ba3d13a0b2fe9c020fb0c
+  info: "{cipher}37ea8471c191696efa9ac07fb5d80ba41e6496fef74ba3d13a0b2fe9c020fb0c"
 
 accounts:
   message: "This Accounts Microservice QA"
