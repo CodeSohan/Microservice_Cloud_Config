@@ -2,7 +2,7 @@
 build:
   info: 1.0
 
-accounts:
+loans:
   message: "This Loans Microservice"
   version: 1.1
 
