@@ -3,3 +3,8 @@
 
 build:
   info: 3.0
+
+
+loans:
+  message: "This Loans Microservice Prod"
+  version: 3.1
