@@ -2,3 +2,7 @@
 
 build:
   info: 2.0
+
+cards:
+  message: "This Cards Microservice QA"
+  version: 2.1
