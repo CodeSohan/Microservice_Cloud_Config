@@ -2,7 +2,7 @@
 build:
   info: 1.0
 
-accounts:
+cards:
   message: "This Cards Microservice"
   version: 1.1
 
