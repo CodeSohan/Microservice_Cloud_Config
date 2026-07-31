@@ -4,5 +4,5 @@ build:
   info: 2.0
 
 cards:
-  message: "This Cards Microservice QA"
+  message: "This Cards Microservice Quality"
   version: 2.1
