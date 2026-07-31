@@ -5,4 +5,4 @@ build:
 
 accounts:
   message: "This Accounts Microservice QA"
-  version: 3.0
+  version: 3.1
