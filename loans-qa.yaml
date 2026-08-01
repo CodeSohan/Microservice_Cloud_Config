@@ -4,5 +4,5 @@ build:
   info: 2.0
 
 loans:
-  message: "This Loans Microservice Quality"
+  message: "This Loans Microservice QA"
   version: 2.1
