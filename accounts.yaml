@@ -3,7 +3,7 @@ build:
   info: 1.0
 
 accounts:
-  message: "This Accounts Microservice"
+  message: "This Accounts Microservice Default"
   version: 1.1
 
 
