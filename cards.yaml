@@ -3,7 +3,7 @@ build:
   info: 1.0
 
 cards:
-  message: "This Cards Microservice"
+  message: "This Cards Microservice Default"
   version: 1.1
 
 
