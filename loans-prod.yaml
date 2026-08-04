@@ -6,5 +6,5 @@ build:
 
 
 loans:
-  message: "This Loans Microservice Prod"
+  message: "This Loans Microservice Production"
   version: 3.1
